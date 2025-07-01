@@ -1,0 +1,25 @@
+﻿@model List<Category>
+
+<div class="container mt-4">
+    <h2 class="mb-3">Category List</h2>
+
+    <table class="table table-bordered table-striped table-hover shadow-sm">
+        <thead class="table-primary">
+            <tr>
+                <th scope="col">#</th>
+                <th scope="col">Name</th>
+                <th scope="col">Description</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.Id</td>
+                    <td>@item.Name</td>
+                    <td>@item.Description</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

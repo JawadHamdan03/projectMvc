@@ -141,7 +141,6 @@ C:\Users\PC\source\repos\ASPCourse_projects\ProjectMVC\obj\Debug\net9.0\ProjectM
 C:\Users\PC\source\repos\ASPCourse_projects\ProjectMVC\obj\Debug\net9.0\rjimswa.dswa.cache.json
 C:\Users\PC\source\repos\ASPCourse_projects\ProjectMVC\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
 C:\Users\PC\source\repos\ASPCourse_projects\ProjectMVC\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
-C:\Users\PC\source\repos\ASPCourse_projects\ProjectMVC\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\PC\source\repos\ASPCourse_projects\ProjectMVC\obj\Debug\net9.0\scopedcss\bundle\ProjectMVC.styles.css
 C:\Users\PC\source\repos\ASPCourse_projects\ProjectMVC\obj\Debug\net9.0\scopedcss\projectbundle\ProjectMVC.bundle.scp.css
 C:\Users\PC\source\repos\ASPCourse_projects\ProjectMVC\obj\Debug\net9.0\compressed\tadl214tpg-b9sayid5wm.gz
@@ -335,5 +334,6 @@ C:\Users\PC\source\repos\ASPCourse_projects\ProjectMVC\bin\Debug\net9.0\tr\Micro
 C:\Users\PC\source\repos\ASPCourse_projects\ProjectMVC\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
 C:\Users\PC\source\repos\ASPCourse_projects\ProjectMVC\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
 C:\Users\PC\source\repos\ASPCourse_projects\ProjectMVC\obj\Debug\net9.0\scopedcss\Areas\Admin\Views\Shared\_Layout.cshtml.rz.scp.css
-C:\Users\PC\source\repos\ASPCourse_projects\ProjectMVC\obj\Debug\net9.0\compressed\kflh59w4fe-ziop33mc2p.gz
-C:\Users\PC\source\repos\ASPCourse_projects\ProjectMVC\obj\Debug\net9.0\compressed\zhorqtuw6p-ziop33mc2p.gz
+C:\Users\PC\source\repos\ASPCourse_projects\ProjectMVC\obj\Debug\net9.0\scopedcss\Areas\User\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\PC\source\repos\ASPCourse_projects\ProjectMVC\obj\Debug\net9.0\compressed\kflh59w4fe-ivpesm8nez.gz
+C:\Users\PC\source\repos\ASPCourse_projects\ProjectMVC\obj\Debug\net9.0\compressed\zhorqtuw6p-ivpesm8nez.gz

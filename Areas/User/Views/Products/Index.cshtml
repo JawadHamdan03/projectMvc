@@ -1,0 +1,31 @@
+﻿@model List<Product>
+
+<div class="container mt-4">
+    <h2 class="mb-3">Product List</h2>
+
+    <table class="table table-bordered table-striped table-hover shadow-sm">
+        <thead class="table-primary">
+            <tr>
+                <th scope="col">#</th>
+                <th scope="col">Name</th>
+                <th scope="col">Price</th>
+                <th scope="col">Image</th>
+                <th scope="col">Category</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.Id</td>
+                    <td>@item.Name</td>
+                    <td>@item.Price.ToString("C")</td>
+                    <td>
+                        <img src="@item.ImageUrl" alt="Image" style="max-height: 60px;" class="img-thumbnail" />
+                    </td>
+                    <td>@item.Category?.Name</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
